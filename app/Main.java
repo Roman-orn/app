@@ -10,6 +10,8 @@ public class Main {
         printOrder(orders);
 
         System.out.println("to do changes");
+
+        System.out.println("to do second changes");
     }
 
     static void printOrder(Order[] ord) {
