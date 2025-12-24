@@ -8,6 +8,8 @@ public class Main {
         orders[1] = order2;
 
         printOrder(orders);
+
+        System.out.println("to do changes");
     }
 
     static void printOrder(Order[] ord) {
